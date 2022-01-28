@@ -1,0 +1,29 @@
+{
+  "name": "firebase-nodejs-crud",
+  "version": "1.0.0",
+  "description": "In this application I have built a REST API with some CRUD operations",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagandayal829/Firebase-Nodejs-CRUD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gagandayal829/Firebase-Nodejs-CRUD/issues"
+  },
+  "homepage": "https://github.com/gagandayal829/Firebase-Nodejs-CRUD#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
